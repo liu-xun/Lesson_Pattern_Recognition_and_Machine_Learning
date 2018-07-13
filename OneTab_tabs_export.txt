@@ -1,0 +1,33 @@
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=cross%20entropy%20loss&rsv_pq=fb700b600001f7bf&rsv_t=2add8bvdgIwXBBjKCl%2BAyJ3WdCNsQ5IE0WEEJNnzoNtewUctPK2ZBfFFeoQ&rqlang=cn&rsv_enter=1&rsv_n=2&rsv_sug3=1 | cross entropy loss_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=softmax%E4%BA%A4%E5%8F%89%E7%86%B5%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0&oq=softmax%25E4%25BA%25A4%25E5%258F%2589%25E7%2586%25B5%25E6%258D%259F%25E5%25A4%25B1%25E5%2587%25BD%25E6%2595%25B0&rsv_pq=eb6562ca00028a54&rsv_t=e95c8hdLAb8hdlt%2B0bMKkeIeeJENk1HHFPdVdm6gbu64We5mpA5tOmpsLxU&rqlang=cn&rsv_enter=1&rsv_sug3=11&rsv_sug1=2&rsv_sug7=000&rsv_sug2=0&inputT=2835&rsv_sug4=3536&rsv_sug=1 | softmax交叉熵损失函数_百度搜索
+https://blog.csdn.net/allenlzcoder/article/details/78591535 | 简单易懂的softmax交叉熵损失函数求导 - CSDN博客
+https://blog.csdn.net/behamcheung/article/details/71911133#loss-function%E6%B1%82%E5%AF%BC | Softmax函数与交叉熵 - CSDN博客
+https://blog.csdn.net/u012494820/article/details/52797916 | softmax与cross-entropy loss - CSDN博客
+https://blog.csdn.net/scythe666/article/details/78393821 | 分类模型的 Loss 为什么使用 cross entropy - CSDN博客
+https://blog.csdn.net/artprog/article/details/51397289 | 机器学习笔记07：神经网络的反向传播(Backpropagation) - CSDN博客
+https://baike.baidu.com/item/%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E7%AE%97%E6%B3%95/522948?fr=aladdin | 反向传播算法_百度百科
+https://www.cnblogs.com/charlotte77/p/5629865.html | 一文弄懂神经网络中的反向传播法——BackPropagation - Charlotte77 - 博客园
+https://www.google.com/search?q=%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C+%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD+%E4%BA%A4%E5%8F%89%E7%86%B5%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0&rlz=1C1CHWL_zh-CNJP732JP732&oq=%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C+%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD+%E4%BA%A4%E5%8F%89%E7%86%B5%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0&aqs=chrome..69i57.7845j0j1&sourceid=chrome&ie=UTF-8 | 神经网络 反向传播 交叉熵损失函数 - Google Search
+https://blog.csdn.net/fireflychh/article/details/73794270 | softmax函数与交叉熵的反向梯度传导 - CSDN博客
+
+https://blog.csdn.net/zongzi13545329/article/details/63685816 | MCMC算法学习总结 - CSDN博客
+https://blog.csdn.net/omade/article/details/28231101 | 高斯分布抽样 - CSDN博客
+https://www.google.com/search?newwindow=1&source=hp&ei=4WU9W-W8MsXUvATR054o&q=gibbs+sampling&oq=gibbs+sampling&gs_l=psy-ab.3..0i67k1l2j0l2j0i67k1j0l5.1125.9641.0.10168.22.20.0.1.1.0.334.3188.0j3j7j3.14.0....0...1c.1.64.psy-ab..11.11.2474.6..0i131k1j35i39k1j0i131i67k1j0i20i263k1.297.O1qqnkkgcDc | gibbs sampling - Google Search
+https://en.wikipedia.org/wiki/Gibbs_sampling#Samplers-within-Gibbs_and_other_extensions | Gibbs sampling - Wikipedia
+https://www.google.com/search?newwindow=1&ei=2-E8W9_7Isn4vgTz-JugAg&q=python+gibbs+sampling+2-D&oq=python+gibbs+sampling+2-D&gs_l=psy-ab.3...3350.5422.0.6705.4.4.0.0.0.0.267.701.2-3.3.0....0...1c.1j4.64.psy-ab..1.2.472...0i22i30k1j33i21k1j33i160k1.0.Zbc6K7Z_YOc | python gibbs sampling 2-D - Google Search
+http://jessicastringham.net/2018/05/09/gibbs-sampling.html | Gibbs Sampling in Python
+https://theclevermachine.wordpress.com/2012/11/05/mcmc-the-gibbs-sampler/ | MCMC: The Gibbs Sampler | The Clever Machine
+https://www.r-bloggers.com/how-to-sample-from-multidimensional-distributions-using-gibbs-sampling/ | How to sample from multidimensional distributions using Gibbs sampling? | R-bloggers
+https://blog.csdn.net/qq_32166627/article/details/52640730 | 使用Python将MNIST数据集转化为图片 - CSDN博客
+
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=python%20%E7%94%BB%E5%9B%BE&oq=python%2520%25E7%2594%25BB%25E5%259B%25BE%2520%25E7%25B2%2597%25E7%25BB%2586&rsv_pq=c6e8f8c500068d55&rsv_t=d00abqcw4XID5lYDvj%2Bl5UUKmzlB4%2BGO1OpkfB%2Fhv0w09PGmg2Bdig%2FJqko&rqlang=cn&rsv_enter=1&inputT=1030&rsv_sug3=49&rsv_sug1=38&rsv_sug7=100&rsv_sug2=0&rsv_sug4=1764&rsv_sug=2 | python 画图_百度搜索
+https://www.cnblogs.com/chaoren399/p/5792168.html | Python绘图 - 农民阿姨 - 博客园
+https://blog.csdn.net/u010358304/article/details/78906768 | python matplotlib 画图刻度、图例等字体、字体大小、刻度密度、线条样式设置 - CSDN博客
+https://blog.csdn.net/hfut_jf/article/details/50755260 | python matplotlib绘图时图例显示问题 - CSDN博客
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=numpy%20%E5%88%9D%E5%A7%8B%E5%8C%96%E6%95%B0%E7%BB%84%20type&oq=numpy%2520%25E5%2588%259D%25E5%25A7%258B%25E5%258C%2596%25E6%2595%25B0%25E7%25BB%2584type&rsv_pq=f82bfeaa00010927&rsv_t=3d19nEk2FSX6WU%2Bm4xn7tTwNZIL1oBe5WsoerL42T40EAWfoH9jWJMyd%2FG8&rqlang=cn&rsv_enter=1&inputT=256&rsv_sug3=25&rsv_sug1=3&rsv_sug7=000&rsv_sug2=0&rsv_sug4=860&rsv_sug=1 | numpy 初始化数组 type_百度搜索
+https://www.cnblogs.com/saryli/p/8607630.html | Python Numpy 数组的初始化和基本操作 - 清明-心若淡定 - 博客园
+https://www.baidu.com/s?ie=UTF-8&wd=matplotlib%20%E5%A4%9A%E4%B8%AAfigure | matplotlib 多个figure_百度搜索
+https://zhidao.baidu.com/question/936659485419548532.html | python matplotlib 同时创建多个窗口_百度知道
+https://zhidao.baidu.com/question/458749531622611125.html | 如何用matplotlib画多个独立窗口的图_百度知道
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=random.randn&oq=np.random.randn&rsv_pq=8e19f6d00001fb97&rsv_t=2ddfWpDYmcdbIb0DM58%2Fuh4kyd%2FjA%2BbJBf9BJlZ6Q51HHNPKYhe25wk8AgY&rqlang=cn&rsv_enter=1&bs=np.random.randn | random.randn_百度搜索
+
