@@ -1,3 +1,4 @@
+http://www.cnblogs.com/tsiangleo/p/6150086.html | 神经网络与深度学习（4）：改进神经网络的学习方法 - 凝静志远 - 博客园
 https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=cross%20entropy%20loss&rsv_pq=fb700b600001f7bf&rsv_t=2add8bvdgIwXBBjKCl%2BAyJ3WdCNsQ5IE0WEEJNnzoNtewUctPK2ZBfFFeoQ&rqlang=cn&rsv_enter=1&rsv_n=2&rsv_sug3=1 | cross entropy loss_百度搜索
 https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=softmax%E4%BA%A4%E5%8F%89%E7%86%B5%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0&oq=softmax%25E4%25BA%25A4%25E5%258F%2589%25E7%2586%25B5%25E6%258D%259F%25E5%25A4%25B1%25E5%2587%25BD%25E6%2595%25B0&rsv_pq=eb6562ca00028a54&rsv_t=e95c8hdLAb8hdlt%2B0bMKkeIeeJENk1HHFPdVdm6gbu64We5mpA5tOmpsLxU&rqlang=cn&rsv_enter=1&rsv_sug3=11&rsv_sug1=2&rsv_sug7=000&rsv_sug2=0&inputT=2835&rsv_sug4=3536&rsv_sug=1 | softmax交叉熵损失函数_百度搜索
 https://blog.csdn.net/allenlzcoder/article/details/78591535 | 简单易懂的softmax交叉熵损失函数求导 - CSDN博客
